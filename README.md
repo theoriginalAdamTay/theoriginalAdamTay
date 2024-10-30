@@ -1,11 +1,11 @@
 <h1 align="center">G'day! I'm Adam Tay</h1>
 <h3 align="center">A Computer Science graduate from Royal Holloway, University of London specialising in artificial intelligence</h3>
 
-- 🔭 My current project is [Matildas Result Prediction SVR Model](github.com/theoriginalAdamTay/MatildasResultPredictionSVRModel)
+- 🔭 My current project is [Matildas Result Prediction SVR Model](https://github.com/theoriginalAdamTay/MatildasResultPredictionSVRModel)
 
 - 🌱 I’m currently learning **PHP, C++ and React**
 
-- 👨‍💻 All of my projects are available at [originaladamtay.netlify.app](originaladamtay.netlify.app)
+- 👨‍💻 All of my projects are available at [https://originaladamtay.netlify.app](https://originaladamtay.netlify.app)
 
 - 💬 Ask me about **Java programming and SQL**
 
